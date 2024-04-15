@@ -4,9 +4,9 @@ mainset:
 - names:
   - name: test
     probability: 1
-  - name: Aagtekerke
+  - name: tersat23
     probability: 1
-  - name: Aalden
+  - name: test34
     probability: 1
   - name: Aalsmeer
     probability: 1
